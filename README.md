@@ -4,6 +4,9 @@ GET
 ?table=Something
 
 POST
-name
-score
-table
+array(
+  name => Something,
+  score => Something,
+  table => Something
+)
+
